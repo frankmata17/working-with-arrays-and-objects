@@ -23,7 +23,8 @@ var carDetails = {
 
 //Code Here
 
-
+const { color: blue, make: 'honda', model: 'civic', year: 2001} = carDetails
+console.log(carDetails)
 
 ////////// PROBLEM 2 //////////
 
@@ -55,6 +56,7 @@ function greeting( obj ) {
 
 //Code Here
 
+function totalPopulation(utah, california, texas, arizona)
 
 
 ////////// PROBLEM 4 //////////

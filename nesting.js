@@ -52,6 +52,9 @@ var employees = [
 
 //Code Here
 
+function employeeUpdater() {
+  if (firstName= Theo, --)
+}
 
 
 ////////// PROBLEM 2 //////////
@@ -70,6 +73,8 @@ var workplaceAccidents = [12, 56, 44, 3, 29, 56, 56, 3, 7, 12];
 
 //Code Here
 
+let accidents = [...new Set(workplaceAccidents)];
+console.log(accidents)
 
 
 ////////// PROBLEM 3 //////////
@@ -97,9 +102,8 @@ var cat = {
 */
 
 //Code Here
-var grumpyActivity;
+var grumpyActivity= cat
 var fluffy2ndFriend;
-
 
 
 ////////// PROBLEM 4 //////////
@@ -128,6 +132,10 @@ var myCar = {
   ]
 }
 // Do not edit the code above.
+
+function recordCleaner(){
+
+}
 
 /*
   Above is some information about my car. As you can see, I am not the best driver.
@@ -159,4 +167,7 @@ var numsArr = [ [1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11]];
 
 //Code Here
 
+function looper() {
+  if 
+}
 
